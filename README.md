@@ -1,1 +1,1 @@
-# Noir JS Example
+# NoirJS Example
