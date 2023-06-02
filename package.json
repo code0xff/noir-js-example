@@ -12,7 +12,10 @@
   "author": "code0xff <ian.jungyong.um@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "@noir/api": "github:noir-js/api",
+    "@pinot/api": "^0.1.0",
+    "@pinot/keyring": "^0.1.0",
+    "@pinot/util": "^0.1.2",
+    "@polkadot/util-crypto": "^12.2.1",
     "@types/node": "^18.16.3",
     "ts-node": "^10.9.1",
     "tsup": "^6.7.0",
